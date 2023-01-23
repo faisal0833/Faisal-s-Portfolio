@@ -592,3 +592,27 @@ body {
   position: fixed;
   z-index: 100;
 }
+#progress {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  height: 60px;
+  width: 60px;
+  display: none;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  z-index: 5;
+}
+#progress-value {
+  display: block;
+  height: calc(100% - 16px);
+  width: calc(100% - 16px);
+  background-color: #f7f7f7;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 35px;
+  color: #002057;
+}
