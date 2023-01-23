@@ -472,10 +472,10 @@ body {
 .contact-text p a {
   text-decoration: none;
   color: #002057;
-  transition: 0.5s;
 }
 .contact-text p a:hover {
   color: #ff7b00;
+  transition: 0.3s;
 }
 
 @media (max-width: 991px) {
