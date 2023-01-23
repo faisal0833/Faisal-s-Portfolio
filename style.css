@@ -120,7 +120,7 @@ body {
   background-color: #002057;
   color: #00d9ff;
   box-shadow: 0px 5px 18px rgba(11, 21, 112, 0.6);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .hero-area .social-links {
   display: flex;
@@ -262,7 +262,7 @@ body {
   color: #00d9ff;
   background-color: #002057;
   box-shadow: 0px 5px 18px rgb(11, 21, 112, 0.6);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .about-text p span {
   color: #011aff;
@@ -408,7 +408,7 @@ body {
 .single-work a:hover {
   color: #00d9ff;
   background-color: #002057;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 
 @media (max-width: 991px) {
@@ -462,7 +462,7 @@ body {
   background-color: #002057;
   box-shadow: 0px 5px 18px rgb(11, 21, 112, 0.6);
   color: #00d9ff;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .contact-text h2 {
   color: #002057;
@@ -472,7 +472,7 @@ body {
 .contact-text p a {
   text-decoration: none;
   color: #002057;
-  transition: 0.3s;
+  transition: 0.5s;
 }
 .contact-text p a:hover {
   color: #ff7b00;
